@@ -6,7 +6,7 @@ This project is a custom implementation and replication of SchNet - graph contin
 It uses PyTorch as its NN framework and ASE (Atomic Simulation Environment) for processing molecular information.
 Python scripts for processing .npz files are provided so user can create their custom dataset.
 
-Installation (tested with Python 3.12.3):
+# Installation (tested with Python 3.12.3):
 
 git clone https://github.com/nomouro/NN_Project.git
 
@@ -16,7 +16,7 @@ python -m venv venv_name
 
 source ./venv_name/bin/activate
 
-# You can choose between requirements.txt and requirements_working.txt , the latter was tested.
+You can choose between requirements.txt and requirements_working.txt , the latter was tested.
 
 pip install -r requirements.txt
 
@@ -34,7 +34,7 @@ cd ..
 
 run
 
-Citation:
+# Citation:
 
 Schütt, Kristof, Pieter-Jan Kindermans, Huziel Enoc Sauceda Felix, Stefan Chmiela, Alexandre Tkatchenko, and Klaus-Robert Müller. "Schnet: A continuous-filter convolutional neural network for modeling quantum interactions." Advances in neural information processing systems 30 (2017).
 
