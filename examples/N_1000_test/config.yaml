@@ -1,0 +1,15 @@
+run: train
+defaults:
+  epochs: 2500
+  bs: 64
+  max_eln: 17
+  lr: 0.001
+  embedd_dim: 64
+  gamma: 10
+device: cuda:0
+idx:
+  train_stop: 1000
+  val_start: 1000
+  val_stop: 2000
+  test_start: 2000
+  test_stop: 3000

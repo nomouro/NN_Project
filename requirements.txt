@@ -1,0 +1,9 @@
+-e .
+torch
+ase
+numpy
+omegaconf
+packaging
+requests
+
+
