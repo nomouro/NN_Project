@@ -34,7 +34,7 @@ cd ..
 
 run
 
-In order to test the model, change test in config.yaml: "run: train" ; to "run: test", afterwards:
+In order to test the model, change train in config.yaml: "run: train" ; to "run: test", afterwards:
 
 run
 
