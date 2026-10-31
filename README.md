@@ -34,6 +34,10 @@ cd ..
 
 run
 
+In order to test the model, change test in config.yaml: "run: train" ; to "run: test", afterwards:
+
+run
+
 # Citation:
 
 Schütt, Kristof, Pieter-Jan Kindermans, Huziel Enoc Sauceda Felix, Stefan Chmiela, Alexandre Tkatchenko, and Klaus-Robert Müller. "Schnet: A continuous-filter convolutional neural network for modeling quantum interactions." Advances in neural information processing systems 30 (2017).
